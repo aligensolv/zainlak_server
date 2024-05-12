@@ -1,6 +1,6 @@
 import moment from 'moment'
 import promiseAsyncWrapper from '../middlewares/promise_async_wrapper.js'
-import Slider from '../models/slider.js'
+import Slider from '../models/Slider.js'
 import CustomError from '../interfaces/custom_error_class.js'
 import { NOT_CHANGED } from '../constants/status_codes.js'
 
