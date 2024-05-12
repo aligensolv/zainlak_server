@@ -1,6 +1,6 @@
 import moment from 'moment'
 import promiseAsyncWrapper from '../middlewares/promise_async_wrapper.js'
-import Manager from '../models/manager.js'
+import Manager from '../models/Manager.js'
 import Auth from './Auth.js'
 
 import CustomError from '../interfaces/custom_error_class.js'
