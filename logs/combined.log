@@ -1,0 +1,1327 @@
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-08 01:25:10"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 01:25:10"}
+{"level":"info","message":"rr37466","timestamp":"2023-12-08 01:25:10"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 01:25:10"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 01:52:41"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 01:52:41"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 01:52:41"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 02:50:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 02:50:06"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 02:50:06"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 03:04:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 03:04:01"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 03:04:01"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 03:05:31"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 03:05:31"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 03:05:31"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 18:40:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 18:40:08"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 18:40:08"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 18:41:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 18:41:37"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 18:41:37"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 18:42:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 18:42:01"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 18:42:01"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 19:09:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 19:09:45"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 19:09:45"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 19:12:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 19:12:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 19:12:46"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 19:39:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 19:39:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 19:39:46"}
+{"level":"error","message":"(intermediate value).sort is not a function","timestamp":"2023-12-08 19:40:04"}
+{"level":"error","message":"(intermediate value).sort is not a function","timestamp":"2023-12-08 19:40:32"}
+{"level":"error","message":"(intermediate value).sort is not a function","timestamp":"2023-12-08 19:40:35"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:08:57"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:08:57"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:08:57"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:17:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:17:53"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:17:53"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:19:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:19:59"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:19:59"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:21:25"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:21:25"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:21:25"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:25:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:25:45"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:25:45"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:25:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:25:50"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:25:50"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:26:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:26:02"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:26:02"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:30:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:30:38"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:30:38"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:31:32"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:31:32"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:31:32"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:41:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:41:04"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:41:04"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-08 20:41:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-08 20:41:24"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-08 20:41:24"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 00:37:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 00:37:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 00:37:46"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 00:52:49"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 00:52:49"}
+{"level":"info","message":"bb11111","timestamp":"2023-12-09 00:52:49"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 00:52:49"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:02:42"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:02:42"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:02:42"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:02:58"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:02:58"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:02:58"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:18:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:18:38"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:18:38"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:19:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:19:34"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:19:34"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:21:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:21:48"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:21:48"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:35:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:35:14"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:35:14"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:40:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:40:06"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:40:06"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:41:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:41:14"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:41:14"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 01:46:57"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 01:46:57"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 01:46:57"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 02:48:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 02:48:48"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 02:48:48"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:09:12"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:09:12"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:09:12"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:13:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:13:04"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:13:04"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:14:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:14:28"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:14:28"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:26:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:26:54"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:26:54"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:27:47"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:27:47"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:27:47"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:39:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:39:40"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:39:40"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:40:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:40:52"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:40:52"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:42:49"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:42:49"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:42:49"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:43:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:43:34"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:43:34"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:44:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:44:38"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:44:38"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:47:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:47:39"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:47:39"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:49:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:49:06"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:49:06"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:50:35"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:50:35"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:50:35"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:55:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:55:03"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:55:03"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:55:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:55:40"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:55:40"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:56:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:56:00"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:56:00"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 03:57:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 03:57:01"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 03:57:01"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 04:01:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 04:01:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 04:01:46"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 04:05:58"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 04:05:58"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 04:05:58"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 04:11:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 04:11:37"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 04:11:37"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 04:12:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 04:12:40"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 04:12:40"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 04:20:27"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 04:20:27"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 04:20:27"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:14:35"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:14:35"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:14:35"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:15:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:15:36"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:15:36"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:16:19"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:16:19"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:16:19"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:16:41"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:16:41"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:16:41"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:18:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:18:45"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:18:45"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:19:27"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:19:27"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:19:27"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:37:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:37:28"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:37:28"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 05:48:47"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 05:48:47"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 05:48:47"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:23:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 06:23:39"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:23:39"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:25:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 06:25:17"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:25:17"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:39:30"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:39:30"}
+{"level":"info","message":"cc2","timestamp":"2023-12-09 06:39:30"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:39:30"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:43:10"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:43:10"}
+{"level":"info","message":"cc2","timestamp":"2023-12-09 06:43:10"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:43:10"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:43:36"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:43:36"}
+{"level":"info","message":"ååwwwww","timestamp":"2023-12-09 06:43:36"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:43:36"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:46:15"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:46:15"}
+{"level":"info","message":"ks","timestamp":"2023-12-09 06:46:15"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:46:15"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:50:04"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:50:04"}
+{"level":"info","message":"ii55555","timestamp":"2023-12-09 06:50:04"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:50:04"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 06:50:15"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:50:15"}
+{"level":"info","message":"cc11111","timestamp":"2023-12-09 06:50:15"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:50:15"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2023-12-09 06:50:20"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:50:20"}
+{"level":"info","message":"cc111111","timestamp":"2023-12-09 06:50:20"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:50:20"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 06:50:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 06:50:43"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 06:50:43"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 15:44:51"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 15:44:51"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 15:44:51"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 16:21:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 16:21:54"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 16:21:54"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 16:24:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 16:24:02"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 16:24:02"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 17:09:34"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-09 17:09:46"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 17:10:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 17:10:03"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 17:10:03"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-09 17:10:32"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-09 17:10:32"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-09 17:10:32"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 02:37:46"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-10 02:37:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 02:37:46"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:00:26"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-10 03:00:26"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:00:26"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:02:25"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-10 03:02:25"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:02:25"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:04:27"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-10 03:04:27"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:04:27"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:15:30"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 03:15:30"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:15:30"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:18:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 03:18:43"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:18:43"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 03:20:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 03:20:53"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 03:20:53"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 14:47:30"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-10 14:47:30"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 14:47:30"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 15:09:30"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 15:09:30"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 15:09:30"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 15:35:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 15:35:45"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 15:35:45"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2023-12-10 15:54:25"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 15:54:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-10 15:54:36"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 15:54:36"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-10 16:45:43"}
+{"level":"info","message":"ed79446","timestamp":"2023-12-10 16:45:43"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-10 16:45:43"}
+{"level":"error","message":"Rule validation failed: policy_time: Path `policy_time` is required.","timestamp":"2023-12-10 23:07:48"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 05:14:46"}
+{"level":"info","message":"eb56625","timestamp":"2023-12-11 05:14:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 05:14:46"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 05:22:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 05:22:50"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 05:22:50"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-11 05:24:17"}
+{"level":"error","message":"a is not defined","timestamp":"2023-12-11 06:27:09"}
+{"level":"error","message":"s is not defined","timestamp":"2023-12-11 06:27:20"}
+{"level":"error","message":"c is not defined","timestamp":"2023-12-11 06:27:22"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'listeners')","timestamp":"2023-12-11 06:30:23"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 16:08:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 16:08:52"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 16:08:52"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:36:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:36:06"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:36:06"}
+{"level":"warn","message":{"brand":"PEUGEOT","color":"Grå","description":"Varebil kl 2","plate":"CV 89558","type":"KJORETOY","year":"2018"},"timestamp":"2023-12-11 18:38:45"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:38:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:38:45"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:38:45"}
+{"level":"warn","message":"Grå","timestamp":"2023-12-11 18:39:06"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:39:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:39:06"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:39:06"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:45:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:45:24"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:45:24"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:47:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:47:34"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:47:34"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 18:54:57"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 18:54:57"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 18:54:57"}
+{"level":"info","message":"cv89557","timestamp":"2023-12-11 19:05:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 19:05:34"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-11 19:05:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 19:10:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-11 19:10:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 06:40:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 06:40:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 06:56:31"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 06:56:31"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:04:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:04:04"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 07:04:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:04:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:04:48"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 07:04:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:06:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:06:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:10:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:10:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:12:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:12:04"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 07:12:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:12:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 07:12:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:20:07"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:20:07"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:26:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:26:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:28:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:28:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:29:42"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 15:29:42"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:05:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:05:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:21:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:21:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:24:58"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:24:58"}
+{"level":"error","message":"Cannot populate path `registered_car_info/place` because it is not in your schema. Set the `strictPopulate` option to false to override.","timestamp":"2023-12-12 16:40:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:47:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:47:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:48:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:48:56"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 16:48:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:49:26"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:49:26"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 16:49:26"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:50:15"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:50:15"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-12 16:50:15"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:53:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:53:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:53:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 16:53:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 23:20:15"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-12 23:20:15"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 12:35:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 12:35:40"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-14 12:40:58"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-14 13:18:13"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:18:37"}
+{"level":"info","message":"mm","timestamp":"2023-12-14 13:18:37"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:18:37"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:18:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:19:08"}
+{"level":"info","message":"mm","timestamp":"2023-12-14 13:19:08"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:19:08"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:19:08"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"2023-12-14 13:19:16"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'nasjonaltGodkjenningsAr')","timestamp":"2023-12-14 13:19:23"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'nasjonaltGodkjenningsAr')","timestamp":"2023-12-14 13:21:33"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'nasjonaltGodkjenningsAr')","timestamp":"2023-12-14 13:21:40"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:21:46"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:26:34"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:26:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:26:52"}
+{"level":"info","message":"mm","timestamp":"2023-12-14 13:26:52"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:26:52"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:26:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:32:38"}
+{"level":"info","message":"mm","timestamp":"2023-12-14 13:32:38"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:32:38"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:32:38"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:36:18"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:36:24"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:49:30"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:49:30"}
+{"level":"info","message":"gg","timestamp":"2023-12-14 13:49:30"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:49:30"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:49:30"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 13:59:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 13:59:59"}
+{"level":"info","message":"gg","timestamp":"2023-12-14 13:59:59"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 13:59:59"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 13:59:59"}
+{"level":"error","message":"result.status is not a function","timestamp":"2023-12-14 14:35:51"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-14 17:14:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-14 17:14:54"}
+{"level":"info","message":"gg","timestamp":"2023-12-14 17:14:54"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-14 17:14:54"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-14 17:14:54"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 17:15:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 17:15:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 17:19:33"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 17:19:33"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 17:21:50"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 17:21:50"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 17:37:58"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 17:37:58"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 17:38:52"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 17:38:52"}
+{"level":"error","message":"Violation validation failed: plate_info.color: Path `plate_info.color` is required., plate_info.type: Path `plate_info.type` is required., plate_info.description: Path `plate_info.description` is required., plate_info.year: Path `plate_info.year` is required., plate_info.plate: Path `plate_info.plate` is required., plate_info.brand: Path `plate_info.brand` is required.","timestamp":"2023-12-14 17:44:16"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 18:06:42"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 18:06:42"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 18:35:29"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 18:35:29"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 18:35:52"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Violation\"","timestamp":"2023-12-14 18:35:52"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 22:08:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 22:56:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 23:15:37"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 23:18:31"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 23:19:59"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 23:22:36"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-14 23:38:10"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 01:47:43"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 02:06:39"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 02:10:11"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 02:11:28"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 04:51:25"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 05:32:31"}
+{"level":"error","message":"Violation validation failed: rules.0: Cast to [ObjectId] failed for value \"[\\n' +\n  '  {\\n' +\n  `    name: \"2 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\",\\n` +\n  '    charge: 100,\\n' +\n  '    id: null,\\n' +\n  '    time_policy: 30\\n' +\n  '  }\\n' +\n  ']\" (type string) at path \"rules.0\" because of \"CastError\"","timestamp":"2023-12-15 08:27:19"}
+{"level":"error","message":"Violation validation failed: rules.0.policy_time: Path `policy_time` is required.","timestamp":"2023-12-15 08:29:31"}
+{"level":"error","message":"Cast to [undefined] failed for value \"[ new ObjectId('657bf3020ae1a6c090d27922') ]\" (type string) at path \"rules.0\" because of \"TypeError\"","timestamp":"2023-12-15 08:32:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 08:37:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 08:37:02"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 08:37:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 09:48:31"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 10:01:11"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 10:01:59"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 10:03:43"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 10:04:04"}
+{"level":"error","message":"this.splitPath is not a function","timestamp":"2023-12-15 10:12:36"}
+{"level":"error","message":"Class constructor ObjectId cannot be invoked without 'new'","timestamp":"2023-12-15 10:12:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 10:58:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 10:58:09"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 10:58:09"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 18:46:44"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 18:49:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 18:55:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 18:55:17"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 18:55:17"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-15 19:02:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:02:05"}
+{"level":"info","message":"gg","timestamp":"2023-12-15 19:02:05"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-15 19:02:05"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:02:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:03:27"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:03:27"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:03:27"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:13:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:13:00"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:13:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:31:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:31:02"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:31:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 19:35:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:41:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:41:44"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:41:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:47:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 19:47:54"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 19:47:54"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 19:49:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 19:50:25"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:01:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:01:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:02:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:02:43"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 20:03:13"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:09:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 20:09:34"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 20:09:34"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 20:09:46"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:15:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:18:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:18:03"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:22:05"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:22:22"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:54:24"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:55:27"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:55:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:56:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:56:17"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 21:56:17"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:56:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:56:34"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:58:49"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:59:06"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 21:59:06"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-15 21:59:06"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 21:59:15"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 23:39:49"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:40:36"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 23:41:04"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:41:57"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-15 23:41:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 23:43:09"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-15 23:46:03"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:09:50"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:15:16"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:20:33"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:25:10"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:25:32"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:25:32"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:26:12"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:26:12"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:28:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:28:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:31:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:31:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:31:14"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:32:11"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:35:33"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:36:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 00:36:50"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-16 00:36:50"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 00:37:16"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 01:06:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 01:07:15"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 01:07:15"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 01:08:11"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 01:08:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 01:08:52"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 01:10:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 01:34:08"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 08:28:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:29:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:29:02"}
+{"level":"error","message":"No violation was found","timestamp":"2023-12-16 08:29:02"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 08:29:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:35:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:35:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:19"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:19"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:39:39"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 08:39:46"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 08:42:46"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 08:49:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:54:33"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 08:54:33"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:07:39"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:10:51"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:11:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:11:05"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:15:13"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:15:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:17:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:17:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:17:52"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:17:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:18:51"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:19:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:19:27"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:19:41"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:19:41"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:19:45"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:29:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:29:11"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 09:29:11"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 09:30:27"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 11:31:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:40:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:40:53"}
+{"level":"error","message":"Violation validation failed: rules.0.policy_time: Path `policy_time` is required.","timestamp":"2023-12-16 11:43:29"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 11:43:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:44:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:44:17"}
+{"level":"error","message":"Violation validation failed: rules.0.policy_time: Path `policy_time` is required.","timestamp":"2023-12-16 11:44:53"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 11:46:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:47:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:47:34"}
+{"level":"error","message":"Violation validation failed: rules.0.policy_time: Path `policy_time` is required.","timestamp":"2023-12-16 11:47:59"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 11:51:30"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:51:54"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 11:51:54"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 12:04:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 12:15:37"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 12:15:37"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 21:50:26"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 21:52:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 22:03:34"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 22:07:03"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 22:15:24"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-16 22:15:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 23:17:03"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-16 23:17:03"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 08:15:28"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 08:16:25"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 08:22:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 08:22:14"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 12:02:22"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 12:03:40"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 12:11:52"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:13:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:13:01"}
+{"level":"error","message":"Cast to ObjectId failed for value \"plate\" (type string) at path \"_id\" for model \"Car\"","timestamp":"2023-12-17 12:13:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:16:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:16:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:16:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:16:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:17:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:17:09"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:17:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:17:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:25:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:25:44"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:31:50"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 12:31:50"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2023-12-17 16:55:18"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2023-12-17 16:55:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:55:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:55:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:55:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:55:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:56:53"}
+{"level":"info","message":"cv98558","timestamp":"2023-12-17 16:56:53"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-17 16:56:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:58:10"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 16:58:10"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 17:52:42"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 17:52:42"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 18:04:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-17 18:04:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 06:20:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 06:20:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 06:21:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 06:21:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:20:05"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:20:05"}
+{"level":"error","message":"Violation validation failed: images: Cast to embedded failed for value \"http://10.0.2.2:3000/public\\\\images\\\\cars\\\\2023-12-18_1702876793743_156868406.png\" (type string) at path \"images\" because of \"ObjectParameterError\"","timestamp":"2023-12-18 07:20:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:28:23"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:28:23"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-12-18 07:28:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:33:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:33:08"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'split')","timestamp":"2023-12-18 07:33:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:35:13"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:35:13"}
+{"level":"error","message":"date is not defined","timestamp":"2023-12-18 07:35:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:35:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:35:59"}
+{"level":"error","message":"Autosys server error","timestamp":"2023-12-18 07:43:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:43:20"}
+{"level":"info","message":"89558","timestamp":"2023-12-18 07:43:20"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-18 07:43:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:43:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:43:29"}
+{"level":"error","message":"pre_data.images is not iterable","timestamp":"2023-12-18 07:43:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:45:14"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:45:14"}
+{"level":"error","message":"Unexpected token u in JSON at position 0","timestamp":"2023-12-18 07:45:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:50:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:50:00"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:59:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 07:59:34"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 08:04:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 08:04:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 08:13:23"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-18 08:13:23"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../app_templates/violation.html'","timestamp":"2023-12-21 16:44:25"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 16:30:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 16:30:40"}
+{"level":"error","message":"Client network socket disconnected before secure TLS connection was established","timestamp":"2023-12-23 16:56:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 16:56:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 16:56:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:04:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:04:59"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:17:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:17:29"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:20:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:20:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:21:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:21:36"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:23:51"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:23:51"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:27:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:27:39"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:30:18"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-23 17:30:18"}
+{"level":"error","message":"Parse error on line 26:\n...                {{/#each}}\r           \n----------------------^\nExpecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'","timestamp":"2023-12-23 22:40:15"}
+{"level":"error","message":"static_files_host is not defined","timestamp":"2023-12-23 22:40:54"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\sjekk_kontroll\\sjekk_server\\http:\\10.0.2.2:3000\\public\\reports\\Fde1C9xAXL_232023.12.23 22:41.pdf'","timestamp":"2023-12-23 22:41:22"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\public\\reports\\OwGH83Iwsq_232023.12.23 22:43.pdf'","timestamp":"2023-12-23 22:43:21"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\sjekk_kontroll\\public\\reports\\h8hq7CpjeM_232023.12.23 22:43.pdf'","timestamp":"2023-12-23 22:43:43"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:19:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:19:01"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:28:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:28:48"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:30:02"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-24 03:30:02"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\read.ejs:70\n    68|                                 </thead>\r\n    69|                                 <tbody>\r\n >> 70|                                     <% users.forEach(user => { %>\r\n    71|                                         <tr>\r\n    72|                                             <td><%= user.name %></td>\r\n    73|                                             <td><%= user.user_identifier %></td>\r\n\nusers is not defined","timestamp":"2023-12-26 11:42:03"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\read.ejs:68\n    66|                                 </thead>\r\n    67|                                 <tbody>\r\n >> 68|                                     <% violations.forEach(violation => { %>\r\n    69|                                         <tr>\r\n    70|                                             <td><%= violation.name %></td>\r\n    71|                                             <td class=\"controls\">\r\n\nviolations is not defined","timestamp":"2023-12-26 11:57:24"}
+{"level":"error","message":"Unexpected token ')' in E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","timestamp":"2023-12-26 12:05:18"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:32\n    30| \r\n    31|                         <h3 class=\"title\">KID number</h3>\r\n >> 32|                         <div><%= kid_number %></div>\r\n    33|                     </div>\r\n    34|                 </div>\r\n    35|             </div>\r\n\nkid_number is not defined","timestamp":"2023-12-26 13:08:50"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:32\n    30| \r\n    31|                         <h3 class=\"title\">KID number</h3>\r\n >> 32|                         <div><%= kid_number %></div>\r\n    33|                     </div>\r\n    34|                 </div>\r\n    35|             </div>\r\n\nkid_number is not defined","timestamp":"2023-12-26 13:08:51"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:32\n    30| \r\n    31|                         <h3 class=\"title\">KID number</h3>\r\n >> 32|                         <div><%= kid_number %></div>\r\n    33|                     </div>\r\n    34|                 </div>\r\n    35|             </div>\r\n\nkid_number is not defined","timestamp":"2023-12-26 13:08:51"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:32\n    30| \r\n    31|                         <h3 class=\"title\">KID number</h3>\r\n >> 32|                         <div><%= kid_number %></div>\r\n    33|                     </div>\r\n    34|                 </div>\r\n    35|             </div>\r\n\nkid_number is not defined","timestamp":"2023-12-26 13:09:01"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:32\n    30| \r\n    31|                         <h3 class=\"title\">KID number</h3>\r\n >> 32|                         <div><%= kid_number %></div>\r\n    33|                     </div>\r\n    34|                 </div>\r\n    35|             </div>\r\n\nkid_number is not defined","timestamp":"2023-12-26 13:09:05"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:58\n    56|                                 <div class=\"info-block\">\r\n    57|                                     <h3 class=\"title\">Fra</h3>\r\n >> 58|                                     <div><%= from_date %></div>\r\n    59|                                 </div>\r\n    60|                             </div>\r\n    61|                             <div class=\"col-lg-6\">\r\n\nfrom_date is not defined","timestamp":"2023-12-26 13:22:54"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:58\n    56|                                 <div class=\"info-block\">\r\n    57|                                     <h3 class=\"title\">Fra</h3>\r\n >> 58|                                     <div><%= from_date %></div>\r\n    59|                                 </div>\r\n    60|                             </div>\r\n    61|                             <div class=\"col-lg-6\">\r\n\nfrom_date is not defined","timestamp":"2023-12-26 13:22:54"}
+{"level":"error","message":"E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs:58\n    56|                                 <div class=\"info-block\">\r\n    57|                                     <h3 class=\"title\">Fra</h3>\r\n >> 58|                                     <div><%= from_date %></div>\r\n    59|                                 </div>\r\n    60|                             </div>\r\n    61|                             <div class=\"col-lg-6\">\r\n\nfrom_date is not defined","timestamp":"2023-12-26 13:22:54"}
+{"level":"error","message":"Unexpected token ')' in E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","timestamp":"2023-12-26 13:42:23"}
+{"level":"error","message":"Unexpected token ')' in E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","timestamp":"2023-12-26 13:42:24"}
+{"level":"error","message":"Unexpected token ')' in E:\\workspace\\sjekk_kontroll\\sjekk_server\\views\\violations\\view_violation.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.","timestamp":"2023-12-26 13:42:28"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 14:55:07"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 14:55:07"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 15:59:57"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 15:59:57"}
+{"level":"error","timestamp":"2023-12-26 16:02:12"}
+{"level":"error","timestamp":"2023-12-26 16:03:12"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 16:03:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 16:03:56"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 16:05:08"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-26 16:05:08"}
+{"level":"error","timestamp":"2023-12-26 16:05:21"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\sjekk_kontroll\\sjekk_server\\public\\images\\temp_cars\\1703595288803_117025211.png'","timestamp":"2023-12-26 16:23:45"}
+{"level":"error","message":"Violation validation failed: images.0.path: Path `path` is required., images.1.path: Path `path` is required., images.2.path: Path `path` is required.","timestamp":"2023-12-26 16:24:36"}
+{"level":"error","message":"Violation validation failed: images.0.path: Path `path` is required., images.1.path: Path `path` is required., images.2.path: Path `path` is required., images.3.path: Path `path` is required.","timestamp":"2023-12-26 16:25:31"}
+{"level":"error","message":"Violation validation failed: images.0.path: Path `path` is required., images.1.path: Path `path` is required., images.2.path: Path `path` is required., images.3.path: Path `path` is required., images.4.path: Path `path` is required.","timestamp":"2023-12-26 16:26:36"}
+{"level":"error","message":"Violation validation failed: images.0.path: Path `path` is required., images.1.path: Path `path` is required., images.2.path: Path `path` is required., images.3.path: Path `path` is required., images.4.path: Path `path` is required., images.5.path: Path `path` is required.","timestamp":"2023-12-26 16:28:52"}
+{"level":"error","message":"r.name.split(...)[1].join is not a function","timestamp":"2023-12-26 21:35:54"}
+{"level":"error","message":"r.name.split(...)[1].join is not a function","timestamp":"2023-12-26 21:36:38"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:25:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:25:40"}
+{"level":"error","message":"Navigation timeout of 30000 ms exceeded","timestamp":"2023-12-27 12:36:24"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:37:47"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:37:47"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:38:46"}
+{"level":"info","message":"cv89559","timestamp":"2023-12-27 12:38:46"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-27 12:38:46"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 12:40:53"}
+{"level":"info","message":"cv89559","timestamp":"2023-12-27 12:40:53"}
+{"level":"error","message":"Could not find car","timestamp":"2023-12-27 12:40:53"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 15:44:33"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 15:44:33"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 16:05:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 16:05:20"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 16:12:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 16:12:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 17:01:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-27 17:01:45"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:17"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:58"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:09:58"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:10:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:10:40"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:22:22"}
+{"level":"info","message":"cv89558","timestamp":"2023-12-28 17:22:22"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-01-16 16:34:45"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-16 16:34:45"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-16 16:34:45"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-01-16 16:35:33"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-16 16:35:33"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-16 16:35:33"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:14:11"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:14:11"}
+{"level":"error","message":"Cannot read properties of null (reading 'user_identifier')","timestamp":"2024-01-17 10:19:56"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:29:21"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:29:21"}
+{"level":"error","message":"Violation validation failed: rules.0._id: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" because of \"BSONError\"","timestamp":"2024-01-17 10:35:09"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:41:04"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:41:04"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:47:10"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 10:47:10"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 17:10:24"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 17:10:24"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 17:13:05"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 17:13:05"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 21:04:59"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-17 21:04:59"}
+{"level":"error","message":"Please provide identifier and password","timestamp":"2024-01-18 11:14:25"}
+{"level":"error","message":"Please provide identifier and password","timestamp":"2024-01-18 11:14:59"}
+{"level":"error","message":"Please provide identifier and password","timestamp":"2024-01-18 11:15:03"}
+{"level":"error","message":"Rule validation failed: extras.meter_receipt_number: Tried to set nested object field `extras.$*` to primitive value `123`, extras.meter_number: Tried to set nested object field `extras.$*` to primitive value `456`, extras.expiry_date: Tried to set nested object field `extras.$*` to primitive value `1705657483066`, extras.paid_date: Tried to set nested object field `extras.$*` to primitive value `123`","timestamp":"2024-01-19 11:44:43"}
+{"level":"error","message":"Rule validation failed: extras.meter_receipt_number: Tried to set nested object field `extras.$*` to primitive value `123`, extras.meter_number: Tried to set nested object field `extras.$*` to primitive value `456`, extras.expiry_date: Tried to set nested object field `extras.$*` to primitive value `1705657500145`, extras.paid_date: Tried to set nested object field `extras.$*` to primitive value `now`","timestamp":"2024-01-19 11:45:00"}
+{"level":"error","message":"Rule validation failed: extras.meter_receipt_number: Cast to Boolean failed for value \"123\" (type string) at path \"extras.meter_receipt_number\" because of \"CastError\", extras.meter_number: Cast to Boolean failed for value \"456\" (type string) at path \"extras.meter_number\" because of \"CastError\", extras.expiry_date: Cast to Boolean failed for value \"1705659105494\" (type string) at path \"extras.expiry_date\" because of \"CastError\", extras.paid_date: Cast to Boolean failed for value \"now\" (type string) at path \"extras.paid_date\" because of \"CastError\"","timestamp":"2024-01-19 12:11:45"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 13:48:21"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 13:48:21"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 14:37:27"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 14:37:27"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 14:42:15"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 14:42:15"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-01-19 15:21:39"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:21:40"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:21:40"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:29:23"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:29:23"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:29:32"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:29:32"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:34:33"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:34:33"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:36:16"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 15:36:16"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 16:12:24"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 16:12:24"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 17:31:51"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-19 17:31:51"}
+{"level":"error","message":"getaddrinfo EAI_AGAIN www.vegvesen.no","timestamp":"2024-01-20 12:51:38"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 12:51:38"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 12:51:38"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 12:52:26"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 12:52:26"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 12:53:24"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:17:22"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:17:26"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:18:08"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:18:45"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:18:54"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'rules')","timestamp":"2024-01-20 21:19:54"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 21:21:16"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 21:21:16"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 22:21:30"}
+{"level":"info","message":"cv89558","timestamp":"2024-01-20 22:21:30"}
+{"level":"error","message":"Cast to ObjectId failed for value \"xc\" (type string) at path \"_id\" for model \"Place\"","timestamp":"2024-01-26 03:58:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"xc\" (type string) at path \"_id\" for model \"Place\"","timestamp":"2024-01-26 03:58:57"}
+{"level":"error","message":"Rule validation failed: charge: Cast to Number failed for value \"x\" (type string) at path \"charge\", policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:26:51"}
+{"level":"error","message":"Rule validation failed: charge: Cast to Number failed for value \"x\" (type string) at path \"charge\", policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:26:51"}
+{"level":"error","message":"Rule validation failed: charge: Cast to Number failed for value \"x\" (type string) at path \"charge\", policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:27:22"}
+{"level":"error","message":"Rule validation failed: charge: Cast to Number failed for value \"x\" (type string) at path \"charge\", policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:27:22"}
+{"level":"error","message":"Rule validation failed: policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:28:06"}
+{"level":"error","message":"Rule validation failed: policy_time: Cast to Number failed for value \"x\" (type string) at path \"policy_time\"","timestamp":"2024-01-26 19:28:06"}
+{"level":"error","message":"Autosys server error","timestamp":"2024-01-27 01:22:12"}
+{"level":"error","message":"Autosys server error","timestamp":"2024-01-27 01:22:12"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-01-27 02:05:13"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-01-27 02:05:13"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 02:59:06"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 02:59:06"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 02:59:36"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 02:59:36"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:05"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:05"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:09"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:09"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:14"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:14"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:17"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:17"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:18"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:18"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-27 16:23:19"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:54"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:54"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:54"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:54"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:57"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:57"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:57"}
+{"level":"error","message":"FORBIDDEN is not defined","timestamp":"2024-01-28 05:10:57"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:39"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:39"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:41"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:41"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:43"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:43"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:49"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:11:49"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:04"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:12"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:28"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:28"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:54"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:54"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:57"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:12:57"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:30"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:30"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:35"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:35"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:38"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:38"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:49"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:49"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:54"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:13:54"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:00"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:00"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:14"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:14"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:28"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:14:28"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:03"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:03"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:22"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:25"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:35"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:15:42"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:17:14"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:17:32"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:17:39"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:20:35"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:21:55"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:22:19"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:23:52"}
+{"level":"error","message":"Please provide api token","timestamp":"2024-01-28 05:25:07"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-05 09:47:48"}
+{"level":"error","message":"result is not defined","timestamp":"2024-02-06 08:15:26"}
+{"level":"error","message":"result is not defined","timestamp":"2024-02-06 08:15:26"}
+{"level":"error","message":"PlaceProfile validation failed: updated_at: Path `updated_at` is required., created_at: Path `created_at` is required.","timestamp":"2024-02-06 08:16:57"}
+{"level":"error","message":"PlaceProfile validation failed: updated_at: Path `updated_at` is required., created_at: Path `created_at` is required.","timestamp":"2024-02-06 08:16:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \":client\" (type string) at path \"_id\" for model \"PlaceProfile\"","timestamp":"2024-02-06 10:49:04"}
+{"level":"error","message":"Cast to ObjectId failed for value \":client\" (type string) at path \"_id\" for model \"PlaceProfile\"","timestamp":"2024-02-06 10:49:04"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 11:55:19"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 11:55:19"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 12:03:06"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 12:03:06"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 12:03:39"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"2024-02-06 12:03:39"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-02-06 12:07:25"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-02-06 12:07:25"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-02-06 12:07:51"}
+{"level":"error","message":"getaddrinfo ENOTFOUND www.vegvesen.no","timestamp":"2024-02-06 12:07:51"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-07 12:55:23"}
+{"level":"info","message":"cv89558","timestamp":"2024-02-07 12:55:23"}
+{"level":"error","message":"Car validation failed: plate_number: Path `plate_number` is required., registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:17:32"}
+{"level":"error","message":"Car validation failed: plate_number: Path `plate_number` is required., registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:17:32"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:18:50"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:18:50"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:19:28"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-07 14:19:28"}
+{"level":"error","message":"car is not defined","timestamp":"2024-02-07 21:47:55"}
+{"level":"error","message":"car is not defined","timestamp":"2024-02-07 21:47:55"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:27:00"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:27:00"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:27:04"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:27:04"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:28:56"}
+{"level":"error","message":"Schema hasn't been registered for model \"ParkingProvider\".\nUse mongoose.model(name, schema)","timestamp":"2024-02-08 00:28:56"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:35:57"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:35:57"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:41:36"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:41:36"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:42:08"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-09 11:42:08"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-11 15:23:06"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-11 15:23:06"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 04:54:46"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 04:54:46"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:00:09"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:00:09"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:00:24"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:00:24"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:08:53"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:08:53"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:09:17"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:09:17"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:10:11"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 05:10:11"}
+{"level":"error","message":"CarLogModel is not defined","timestamp":"2024-02-15 05:14:39"}
+{"level":"error","message":"CarLogModel is not defined","timestamp":"2024-02-15 05:14:39"}
+{"level":"error","message":"CarLog validation failed: registeration_data.gateway: Path `registeration_data.gateway` is required.","timestamp":"2024-02-15 05:15:06"}
+{"level":"error","message":"CarLog validation failed: registeration_data.gateway: Path `registeration_data.gateway` is required.","timestamp":"2024-02-15 05:15:06"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:30:05"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:30:05"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:30:51"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:30:51"}
+{"level":"error","message":"Access code not provided","timestamp":"2024-02-15 05:31:20"}
+{"level":"error","message":"Access code not provided","timestamp":"2024-02-15 05:31:46"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:32:05"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:32:05"}
+{"level":"error","message":"jwt is not defined","timestamp":"2024-02-15 05:32:55"}
+{"level":"error","message":"jwt is not defined","timestamp":"2024-02-15 05:32:55"}
+{"level":"error","message":"jwt_secret_key is not defined","timestamp":"2024-02-15 05:33:23"}
+{"level":"error","message":"jwt_secret_key is not defined","timestamp":"2024-02-15 05:33:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"null\" (type string) at path \"_id\" for model \"PlaceProfile\"","timestamp":"2024-02-15 05:41:05"}
+{"level":"error","message":"Cast to ObjectId failed for value \"null\" (type string) at path \"_id\" for model \"PlaceProfile\"","timestamp":"2024-02-15 05:41:05"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:42:15"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:42:15"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:43:21"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 05:43:21"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"partner\" for model \"Place\"","timestamp":"2024-02-15 06:01:44"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"partner\" for model \"Place\"","timestamp":"2024-02-15 06:01:44"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"partner\" for model \"Place\"","timestamp":"2024-02-15 06:01:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"partner\" for model \"Place\"","timestamp":"2024-02-15 06:01:56"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 06:36:34"}
+{"level":"error","message":"Access code is incorrect","timestamp":"2024-02-15 06:36:34"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 06:38:00"}
+{"level":"error","message":"Car is already registered","timestamp":"2024-02-15 06:38:00"}
+{"level":"error","message":"logs is not iterable","timestamp":"2024-02-15 07:19:38"}
+{"level":"error","message":"logs is not iterable","timestamp":"2024-02-15 07:19:38"}
+{"level":"error","message":"data is not defined","timestamp":"2024-02-15 07:19:58"}
+{"level":"error","message":"data is not defined","timestamp":"2024-02-15 07:19:58"}
+{"level":"error","message":"data is not defined","timestamp":"2024-02-15 07:20:14"}
+{"level":"error","message":"data is not defined","timestamp":"2024-02-15 07:20:14"}
+{"level":"error","message":"fs is not defined","timestamp":"2024-02-15 07:22:08"}
+{"level":"error","message":"fs is not defined","timestamp":"2024-02-15 07:22:08"}
+{"level":"error","message":"Handlebars is not defined","timestamp":"2024-02-15 07:22:26"}
+{"level":"error","message":"Handlebars is not defined","timestamp":"2024-02-15 07:22:26"}
+{"level":"error","message":"compiledViolationTemplate is not defined","timestamp":"2024-02-15 07:23:02"}
+{"level":"error","message":"compiledViolationTemplate is not defined","timestamp":"2024-02-15 07:23:02"}
+{"level":"error","message":"path is not defined","timestamp":"2024-02-15 07:23:16"}
+{"level":"error","message":"path is not defined","timestamp":"2024-02-15 07:23:16"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\projects\\sjekk_kontroll\\sjekk_server\\public\\car_log_reports\\0.5778222907593731.png'","timestamp":"2024-02-15 07:34:28"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\projects\\sjekk_kontroll\\sjekk_server\\public\\car_log_reports\\0.5778222907593731.png'","timestamp":"2024-02-15 07:34:28"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\projects\\sjekk_kontroll\\sjekk_server\\public\\car_log_reports\\0.5790703834016164.png'","timestamp":"2024-02-15 07:34:47"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'E:\\workspace\\projects\\sjekk_kontroll\\sjekk_server\\public\\car_log_reports\\0.5790703834016164.png'","timestamp":"2024-02-15 07:34:47"}
+{"level":"error","message":"Navigation timeout of 30000 ms exceeded","timestamp":"2024-02-15 07:39:37"}
+{"level":"error","message":"Navigation timeout of 30000 ms exceeded","timestamp":"2024-02-15 07:39:37"}
+{"level":"error","message":"waitTillHTMLRendered is not defined","timestamp":"2024-02-15 08:22:15"}
+{"level":"error","message":"waitTillHTMLRendered is not defined","timestamp":"2024-02-15 08:22:15"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'startsWith')","timestamp":"2024-02-15 18:59:56"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'startsWith')","timestamp":"2024-02-15 18:59:56"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'startsWith')","timestamp":"2024-02-15 19:02:22"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'startsWith')","timestamp":"2024-02-15 19:02:22"}
+{"level":"error","message":"PartnerPlaceCreationRequest validation failed: place_creation_details.code: Path `place_creation_details.code` is required., place_creation_details.policy: Path `place_creation_details.policy` is required., place_creation_details.location: Path `place_creation_details.location` is required., requested_by: Path `requested_by` is required.","timestamp":"2024-02-19 17:12:37"}
+{"level":"error","message":"PartnerPlaceCreationRequest validation failed: place_creation_details.code: Path `place_creation_details.code` is required., place_creation_details.policy: Path `place_creation_details.policy` is required., place_creation_details.location: Path `place_creation_details.location` is required., requested_by: Path `requested_by` is required.","timestamp":"2024-02-19 17:12:37"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-19 17:48:34"}
+{"level":"error","message":"Car validation failed: registeration_source: Path `registeration_source` is required.","timestamp":"2024-02-19 17:48:34"}
+{"level":"error","message":"PartnerPlaceDeletionRequest validation failed: requested_place_id: Path `requested_place_id` is required.","timestamp":"2024-02-21 11:23:36"}
+{"level":"error","message":"PartnerPlaceDeletionRequest validation failed: requested_place_id: Path `requested_place_id` is required.","timestamp":"2024-02-21 11:23:36"}
+{"level":"error","message":"PartnerPlaceDeletionRequest validation failed: requested_place_id: Path `requested_place_id` is required.","timestamp":"2024-02-21 11:24:34"}
+{"level":"error","message":"PartnerPlaceDeletionRequest validation failed: requested_place_id: Path `requested_place_id` is required.","timestamp":"2024-02-21 11:24:34"}
+{"level":"error","message":"Request Not Found","timestamp":"2024-02-21 13:03:10"}
+{"level":"error","message":"Request Not Found","timestamp":"2024-02-21 13:03:10"}
+{"level":"error","message":"Image is required","timestamp":"2024-04-07 00:49:00"}
+{"level":"error","message":"Image is required","timestamp":"2024-04-07 00:49:58"}
+{"level":"error","message":"Image is required","timestamp":"2024-04-07 00:50:40"}
+{"level":"error","message":"Image is required","timestamp":"2024-04-07 00:51:37"}
+{"level":"error","message":"E11000 duplicate key error collection: zainlak.categories index: nameAr_1 dup key: { nameAr: null }","timestamp":"2024-04-07 00:53:06"}
+{"level":"error","message":"E11000 duplicate key error collection: zainlak.categories index: nameAr_1 dup key: { nameAr: null }","timestamp":"2024-04-07 00:53:06"}
+{"level":"error","message":"User 'ali@gmail.com' does not exist","timestamp":"2024-04-09 00:24:42"}
+{"level":"error","message":"User 'ali@gmail.com' does not exist","timestamp":"2024-04-09 00:24:42"}
+{"level":"error","message":"Auth.comparePassword is not a function","timestamp":"2024-04-09 00:24:54"}
+{"level":"error","message":"Auth.comparePassword is not a function","timestamp":"2024-04-09 00:24:54"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-04-09 00:25:48"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-04-09 00:25:48"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"5","28":"T","29":"q","3":" ","30":"3","31":"n","32":"d","33":"p","34":"z","35":"Q","36":"J","37":"R","38":"c","39":"N","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 01:51:44"}
+{"accepted":["ali@gensolv.no"],"ehlo":["PIPELINING","SIZE 48811212","ETRN","AUTH PLAIN LOGIN","ENHANCEDSTATUSCODES","8BITMIME","DSN","CHUNKING"],"envelope":{"from":"nordic@bilsjekk.in","to":["ali@gensolv.no"]},"envelopeTime":269,"level":"info","message":"Email sent:","messageId":"<97c294ce-3fea-5c38-4bc5-665427e55f75@bilsjekk.in>","messageSize":546,"messageTime":330,"rejected":[],"response":"250 2.0.0 Ok: queued as 4VD5WR48XCz2CgwC","timestamp":"2024-04-09 01:53:08"}
+{"level":"info","message":"Email sent:","timestamp":"2024-04-09 01:53:36"}
+{"level":"info","message":"Email sent:","timestamp":"2024-04-09 01:53:42"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"5","28":"f","29":"F","3":" ","30":"5","31":"z","32":"d","33":"0","34":"z","35":"Q","36":"J","37":"R","38":"c","39":"P","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 01:59:03"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"5","28":"f","29":"T","3":" ","30":"6","31":"5","32":"B","33":"X","34":"z","35":"2","36":"C","37":"g","38":"w","39":"K","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 01:59:15"}
+{"accepted":["ali@gensolv.no"],"ehlo":["PIPELINING","SIZE 48811212","ETRN","AUTH PLAIN LOGIN","ENHANCEDSTATUSCODES","8BITMIME","DSN","CHUNKING"],"envelope":{"from":"nordic@bilsjekk.in","to":["ali@gensolv.no"]},"envelopeTime":218,"level":"info","message":"Email sent:","messageId":"<9deb695c-f607-0106-ad1d-8ca8b9e40a3c@bilsjekk.in>","messageSize":546,"messageTime":302,"rejected":[],"response":"250 2.0.0 Ok: queued as 4VD5fq2vr2zQJRcQ","timestamp":"2024-04-09 01:59:32"}
+{"level":"error","message":"EmailRepository.sendOtpResetCode is not a function","timestamp":"2024-04-09 02:20:26"}
+{"level":"error","message":"EmailRepository.sendOtpResetCode is not a function","timestamp":"2024-04-09 02:20:26"}
+{"level":"error","message":"OK is not defined","timestamp":"2024-04-09 02:21:38"}
+{"level":"error","message":"OK is not defined","timestamp":"2024-04-09 02:21:38"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"8","29":"L","3":" ","30":"6","31":"y","32":"c","33":"P","34":"z","35":"5","36":"F","37":"l","38":"S","39":"P","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:21:40"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"8","29":"f","3":" ","30":"5","31":"l","32":"M","33":"H","34":"z","35":"5","36":"F","37":"l","38":"S","39":"T","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:21:55"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"9","29":"W","3":" ","30":"0","31":"w","32":"L","33":"7","34":"z","35":"2","36":"C","37":"g","38":"w","39":"C","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:22:40"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"9","29":"W","3":" ","30":"6","31":"M","32":"3","33":"p","34":"z","35":"5","36":"F","37":"l","38":"S","39":"T","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:22:41"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"R","29":"7","3":" ","30":"0","31":"C","32":"Y","33":"b","34":"z","35":"2","36":"C","37":"g","38":"n","39":"7","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:34:28"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"R","29":"8","3":" ","30":"1","31":"9","32":"5","33":"Y","34":"z","35":"2","36":"C","37":"g","38":"w","39":"V","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:34:29"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"R","29":"N","3":" ","30":"0","31":"V","32":"q","33":"9","34":"z","35":"2","36":"C","37":"g","38":"w","39":"V","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:34:41"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"V","29":"z","3":" ","30":"5","31":"C","32":"m","33":"C","34":"z","35":"2","36":"C","37":"g","38":"w","39":"F","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:37:48"}
+{"level":"error","message":"User with 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:29"}
+{"level":"error","message":"User with 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:29"}
+{"level":"error","message":"User with 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:31"}
+{"level":"error","message":"User with 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:31"}
+{"level":"error","message":"User with email 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:43"}
+{"level":"error","message":"User with email 'alitarek999444@gmail.com' does not exist","timestamp":"2024-04-09 02:44:43"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"g","29":"C","3":" ","30":"5","31":"c","32":"f","33":"l","34":"z","35":"5","36":"F","37":"l","38":"S","39":"N","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:44:56"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"6","28":"g","29":"F","3":" ","30":"6","31":"g","32":"Q","33":"p","34":"z","35":"5","36":"F","37":"l","38":"S","39":"V","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-09 02:44:59"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-09 02:46:50"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-09 02:46:50"}
+{"level":"error","message":"moment is not defined","timestamp":"2024-04-09 16:12:42"}
+{"level":"error","message":"moment is not defined","timestamp":"2024-04-09 16:12:42"}
+{"level":"error","message":"Auth is not defined","timestamp":"2024-04-09 16:13:09"}
+{"level":"error","message":"Auth is not defined","timestamp":"2024-04-09 16:13:09"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Technician\"","timestamp":"2024-04-09 17:23:59"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Technician\"","timestamp":"2024-04-09 17:23:59"}
+{"level":"error","message":"User with email 'alitarek99944@gmail.com' does not exist","timestamp":"2024-04-10 01:04:06"}
+{"level":"error","message":"User with email 'alitarek99944@gmail.com' does not exist","timestamp":"2024-04-10 01:04:06"}
+{"level":"error","message":"User with email 'alitarek99944@gmail.com' does not exist","timestamp":"2024-04-10 01:05:03"}
+{"level":"error","message":"User with email 'alitarek99944@gmail.com' does not exist","timestamp":"2024-04-10 01:05:03"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"h","28":"P","29":"z","3":" ","30":"1","31":"H","32":"f","33":"M","34":"z","35":"N","36":"l","37":"K","38":"x","39":"q","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:05:30"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"h","28":"S","29":"Q","3":" ","30":"2","31":"k","32":"b","33":"G","34":"z","35":"L","36":"H","37":"4","38":"4","39":"r","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:07:37"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:07:39"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:07:39"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:07:54"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:07:54"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:09:11"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:09:11"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:11:28"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:11:28"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:11:34"}
+{"level":"error","message":"User with email 'alitarek9994d4@gmail.com' does not exist","timestamp":"2024-04-10 01:11:34"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"h","28":"Y","29":"5","3":" ","30":"6","31":"Y","32":"S","33":"c","34":"z","35":"L","36":"Z","37":"b","38":"p","39":"n","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:11:40"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"h","28":"m","29":"0","3":" ","30":"1","31":"k","32":"H","33":"g","34":"z","35":"L","36":"Z","37":"c","38":"4","39":"Y","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:21:07"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:23:58"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:23:58"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:11"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:11"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:12"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:12"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:15"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:15"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:36"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:36"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:37"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:37"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:38"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:38"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:46"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:46"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:47"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:24:47"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:19"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:19"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:20"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:20"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:21"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:21"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:35"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:35"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:58"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:25:58"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:26:09"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:26:09"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"j","28":"7","29":"x","3":" ","30":"2","31":"x","32":"w","33":"d","34":"z","35":"N","36":"l","37":"L","38":"4","39":"j","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:38:24"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:39:30"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-04-10 01:39:30"}
+{"0":"2","1":"5","10":"O","11":"k","12":":","13":" ","14":"q","15":"u","16":"e","17":"u","18":"e","19":"d","2":"0","20":" ","21":"a","22":"s","23":" ","24":"4","25":"V","26":"D","27":"j","28":"9","29":"b","3":" ","30":"4","31":"F","32":"X","33":"c","34":"z","35":"L","36":"H","37":"4","38":"4","39":"w","4":"2","5":".","6":"0","7":".","8":"0","9":" ","level":"info","message":"Email sent:","timestamp":"2024-04-10 01:39:51"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:45:01"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:45:01"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:45:04"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:45:04"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:46:21"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:46:21"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:46:53"}
+{"level":"error","message":"User 'aa@gmail.com' does not exist","timestamp":"2024-04-10 01:46:53"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-04-10 01:47:04"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-04-10 01:47:04"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:48:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:48:57"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:49:26"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:49:26"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:20"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:37"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:37"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:38"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 01:50:38"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../data/about.txt'","timestamp":"2024-04-10 03:16:50"}
+{"level":"error","message":"ENOENT: no such file or directory, open '../data/about.txt'","timestamp":"2024-04-10 03:16:50"}
+{"level":"error","message":"readFileSync is not defined","timestamp":"2024-04-10 03:27:41"}
+{"level":"error","message":"readFileSync is not defined","timestamp":"2024-04-10 03:27:41"}
+{"level":"error","message":"path is not defined","timestamp":"2024-04-10 03:27:52"}
+{"level":"error","message":"path is not defined","timestamp":"2024-04-10 03:27:52"}
+{"level":"error","message":"__dirname is not defined","timestamp":"2024-04-10 03:28:03"}
+{"level":"error","message":"__dirname is not defined","timestamp":"2024-04-10 03:28:03"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","timestamp":"2024-04-10 03:34:03"}
+{"level":"error","message":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","timestamp":"2024-04-10 03:34:03"}
+{"level":"error","message":"Content missing","timestamp":"2024-04-10 03:36:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:37:41"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:37:41"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:37:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:37:56"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:38:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:38:23"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:38:26"}
+{"level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"User\"","timestamp":"2024-04-10 03:38:26"}
+{"level":"error","message":"E11000 duplicate key error collection: zainlak.technicians index: email_1 dup key: { email: \"ali@gensolv.np\" }","timestamp":"2024-04-10 04:26:20"}
+{"level":"error","message":"E11000 duplicate key error collection: zainlak.technicians index: email_1 dup key: { email: \"ali@gensolv.np\" }","timestamp":"2024-04-10 04:26:20"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:49:19"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:49:19"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:49:48"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:49:48"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:50:02"}
+{"level":"error","message":"Reservation validation failed: user: Path `user` is required., technician: Path `technician` is required.","timestamp":"2024-04-10 04:50:02"}
+{"level":"error","message":"next is not defined","timestamp":"2024-04-10 21:25:56"}
+{"level":"error","message":"next is not defined","timestamp":"2024-04-10 21:25:56"}
+{"level":"error","message":"Profile Image is required","timestamp":"2024-04-10 21:26:26"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:41:22"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:41:22"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:41:25"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:41:25"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:42:01"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-11 06:42:01"}
+{"level":"error","message":"OK is not defined","timestamp":"2024-04-11 08:23:20"}
+{"level":"error","message":"OK is not defined","timestamp":"2024-04-11 08:23:20"}
+{"level":"error","message":"Password mismatch","timestamp":"2024-04-11 08:28:50"}
+{"level":"error","message":"Password mismatch","timestamp":"2024-04-11 08:28:50"}
+{"level":"error","message":"Content missing","timestamp":"2024-04-11 08:39:38"}
+{"level":"error","message":"Content missing","timestamp":"2024-04-11 08:40:43"}
+{"level":"error","message":"Content missing","timestamp":"2024-04-11 08:41:02"}
+{"level":"error","message":"Content missing","timestamp":"2024-04-11 08:41:36"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:36"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:36"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:45"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:45"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:45"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:45"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:47"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:47"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:47"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:16:47"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:33"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:33"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:33"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:33"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:40"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:40"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:40"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:40"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:48"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:48"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:48"}
+{"level":"error","message":"ProductRepository.getcountCount is not a function","timestamp":"2024-04-11 10:17:48"}
+{"level":"error","message":"Product validation failed: price: Cast to Number failed for value \"NaN\" (type number) at path \"price\", quantity: Cast to Number failed for value \"NaN\" (type number) at path \"quantity\", image: Path `image` is required.","timestamp":"2024-04-12 05:26:36"}
+{"level":"error","message":"Product validation failed: price: Cast to Number failed for value \"NaN\" (type number) at path \"price\", quantity: Cast to Number failed for value \"NaN\" (type number) at path \"quantity\", image: Path `image` is required.","timestamp":"2024-04-12 05:26:36"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2024-04-12 05:28:42"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2024-04-12 05:28:42"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2024-04-12 05:30:07"}
+{"level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Product\"","timestamp":"2024-04-12 05:30:07"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-12 06:22:13"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-12 06:22:13"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:38:50"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:38:50"}
+{"level":"error","message":"Please try another time","timestamp":"2024-04-12 07:39:03"}
+{"level":"error","message":"Please try another time","timestamp":"2024-04-12 07:39:03"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:40:34"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:40:34"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:41:06"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:41:06"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:41:11"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-12 07:41:11"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-16 09:33:33"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-04-16 09:33:33"}
+{"level":"error","message":"Please try another time","timestamp":"2024-04-16 09:33:42"}
+{"level":"error","message":"Please try another time","timestamp":"2024-04-16 09:33:42"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-17 12:01:57"}
+{"level":"error","message":"Manager not found","timestamp":"2024-04-17 12:01:57"}
+{"level":"error","message":"image is not defined","timestamp":"2024-04-17 12:50:13"}
+{"level":"error","message":"image is not defined","timestamp":"2024-04-17 12:50:13"}
+{"level":"error","message":"static_absolute_files_host is not defined","timestamp":"2024-04-17 12:51:14"}
+{"level":"error","message":"static_absolute_files_host is not defined","timestamp":"2024-04-17 12:51:14"}
