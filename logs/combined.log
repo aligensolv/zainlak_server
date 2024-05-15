@@ -1325,3 +1325,17 @@
 {"level":"error","message":"image is not defined","timestamp":"2024-04-17 12:50:13"}
 {"level":"error","message":"static_absolute_files_host is not defined","timestamp":"2024-04-17 12:51:14"}
 {"level":"error","message":"static_absolute_files_host is not defined","timestamp":"2024-04-17 12:51:14"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:56:21"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:56:21"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:57:36"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:57:36"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:57:37"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:57:37"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:59:14"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 19:59:14"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 20:10:17"}
+{"level":"error","message":"User 'johndoe@example.com' does not exist","timestamp":"2024-05-14 20:10:17"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:36"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:36"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:41"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:41"}

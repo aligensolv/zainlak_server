@@ -1437,3 +1437,17 @@ Use mongoose.model(name, schema) {"timestamp":"2024-02-08 00:28:56"}
 [31merror[39m: image is not defined {"timestamp":"2024-04-17 12:50:13"}
 [31merror[39m: static_absolute_files_host is not defined {"timestamp":"2024-04-17 12:51:14"}
 [31merror[39m: static_absolute_files_host is not defined {"timestamp":"2024-04-17 12:51:14"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:56:21"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:56:21"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:57:36"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:57:36"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:57:37"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:57:37"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:59:14"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 19:59:14"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 20:10:17"}
+[31merror[39m: User 'johndoe@example.com' does not exist {"timestamp":"2024-05-14 20:10:17"}
+[31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:36"}
+[31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:36"}
+[31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:41"}
+[31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:41"}
