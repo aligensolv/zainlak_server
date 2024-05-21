@@ -153,6 +153,20 @@ class UserRepository{
             })
         )
     }
+
+    static async deleteAccount({ token }){
+        return new Promise(
+            promiseAsyncWrapper(async (resolve, reject) => {
+                const { id } = await Auth.verifyToken(token)
+
+                await User.deleteOne({
+                    _id: id
+                })
+                
+                return resolve(id)
+            })
+        )
+    }
 }
 
 export default UserRepository

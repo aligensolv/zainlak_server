@@ -1451,3 +1451,17 @@ Use mongoose.model(name, schema) {"timestamp":"2024-02-08 00:28:56"}
 [31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:36"}
 [31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:41"}
 [31merror[39m: Invalid Password {"timestamp":"2024-05-14 20:11:41"}
+[31merror[39m: You Already Have This Booking {"timestamp":"2024-05-21 05:06:27"}
+[31merror[39m: You Already Have This Booking {"timestamp":"2024-05-21 05:06:27"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:03"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:03"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:26"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:26"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:37"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:37"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:49"}
+[31merror[39m: User with email 'alitarek@gmail.com' does not exist {"timestamp":"2024-05-21 05:26:49"}
+[31merror[39m: Invalid reset code {"timestamp":"2024-05-21 05:33:01"}
+[31merror[39m: Invalid reset code {"timestamp":"2024-05-21 05:33:01"}
+[31merror[39m: jwt must be provided {"timestamp":"2024-05-21 05:48:24"}
+[31merror[39m: jwt must be provided {"timestamp":"2024-05-21 05:48:24"}

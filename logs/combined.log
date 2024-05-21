@@ -1339,3 +1339,17 @@
 {"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:36"}
 {"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:41"}
 {"level":"error","message":"Invalid Password","timestamp":"2024-05-14 20:11:41"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-05-21 05:06:27"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-05-21 05:06:27"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:03"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:03"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:26"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:26"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:37"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:37"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:49"}
+{"level":"error","message":"User with email 'alitarek@gmail.com' does not exist","timestamp":"2024-05-21 05:26:49"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-05-21 05:33:01"}
+{"level":"error","message":"Invalid reset code","timestamp":"2024-05-21 05:33:01"}
+{"level":"error","message":"jwt must be provided","timestamp":"2024-05-21 05:48:24"}
+{"level":"error","message":"jwt must be provided","timestamp":"2024-05-21 05:48:24"}

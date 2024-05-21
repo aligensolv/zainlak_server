@@ -71,3 +71,11 @@ export const getUsersCount = asyncWrapper(
         res.status(OK).json(count)
     }
 )
+
+export const deleteAccount = asyncWrapper(
+    async (req, res) => {
+        const { token } = req.body
+        const result = await UserRepository.deleteAccount({token})
+        res.status(OK).json(result)
+    }
+)

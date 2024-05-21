@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,19 +13,22 @@
             background-color: #f9f9f9;
             color: #333;
         }
+
         .container {
-            max-width: 800px;
+            max-width: 80%;
             margin: 50px auto;
             padding: 30px;
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
+
         h1 {
             text-align: center;
             margin-bottom: 20px;
             color: #555;
         }
+
         .instruction {
             margin-bottom: 30px;
             padding: 20px;
@@ -32,31 +36,87 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
         }
+
         .instruction h2 {
             margin-bottom: 10px;
             color: #666;
         }
+
         .instruction ol {
             list-style-type: decimal;
             margin-left: 20px;
         }
-        .contact-info {
+
+        .form-container {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f5f5f5;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .form-container h2 {
+            margin-bottom: 20px;
+            color: #666;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        .form-group select,
+        .form-group input[type="email"],
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #fff;
+            transition: border-color 0.3s ease;
+            font-size: 16px;
+        }
+
+        .form-group select:focus,
+        .form-group input[type="email"]:focus,
+        .form-group textarea:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        .submit-btn {
+            display: inline-block;
+            padding: 8px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .submit-btn:hover {
+            background-color: #0056b3;
+        }
+
+        .or-divider {
             text-align: center;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            color: #555;
         }
-        .contact-info p {
-            margin-bottom: 10px;
-        }
-        .contact-info a {
-            color: #007bff;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-        .contact-info a:hover {
-            color: #0056b3;
-            text-decoration: underline;
+
+        .submit-btn-container {
+            text-align: end;
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Delete User Account</h1>
@@ -67,11 +127,67 @@
                 <li>Open the mobile app on your device.</li>
                 <li>Navigate to your account settings or profile page within the app.</li>
                 <li>Find the option to delete or deactivate your account.</li>
-                <li>Follow the prompts to confirm the deletion of your account. You may be asked to provide additional verification.</li>
+                <li>Follow the prompts to confirm the deletion of your account. You may be asked to provide additional
+                    verification.</li>
             </ol>
         </div>
 
-        <p class="contact-info">If you encounter any issues or need further assistance, please <a href="mailto:support@example.com">contact our support team</a>.</p>
+        <div class="or-divider">
+            <hr>
+            OR
+            <hr>
+        </div>
+
+        <div class="form-container">
+            <h2>Fill out the form below to delete your account:</h2>
+            <form id="delete-account-form" action="#" method="post">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="reason">Reason for deletion:</label>
+                    <select id="reason" name="reason" required>
+                        <option value="">Select a reason</option>
+                        <option value="personal">Personal reasons</option>
+                        <option value="privacy">Privacy concerns</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="additional-info">Additional Information (optional):</label>
+                    <textarea id="additional-info" name="additional-info" rows="4"></textarea>
+                </div>
+                <div class="form-group submit-btn-container">
+                    <button type="submit" class="submit-btn">Submit</button>
+                </div>
+            </form>
+        </div>
     </div>
+
+    <script>
+        document.getElementById('delete-account-form').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const email = document.getElementById('email').value;
+            const reason = document.getElementById('reason').value;
+            const additionalInfo = document.getElementById('additional-info').value;
+            const data = { email, reason, additionalInfo };
+            fetch(`https://server.zainlak.com/api/users/email/${email}`, {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+                .then(response => response.json())
+                .then(response => {
+                    alert(response.message);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
+    </script>
 </body>
+
 </html>
