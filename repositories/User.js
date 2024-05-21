@@ -162,8 +162,19 @@ class UserRepository{
                 await User.deleteOne({
                     _id: id
                 })
-                
+
                 return resolve(id)
+            })
+        )
+    }
+
+    static async deleteAccountByEmail({ email, reason, additionalInfo }){
+        return new Promise(
+            promiseAsyncWrapper(async (resolve, reject) => {
+                await User.deleteOne({
+                    email
+                })
+                return resolve('Account was deleted successfully')
             })
         )
     }

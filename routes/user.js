@@ -1,6 +1,6 @@
 import { Router } from 'express'
 import Randomstring from 'randomstring'
-import { deleteAccount, deleteAllUsers, deleteUser, getAllUsers, getUserById, getUsersCount, loginUser, registerUser, updateUser } from '../controllers/user_controller.js'
+import { deleteAccount, deleteAccountByEmail, deleteAllUsers, deleteUser, getAllUsers, getUserById, getUsersCount, loginUser, registerUser, updateUser } from '../controllers/user_controller.js'
 import path from 'path'
 
 
@@ -33,5 +33,7 @@ router.delete('/users', deleteAllUsers)
 router.post('/users/login', loginUser)
 
 router.post('/users/account/delete', deleteAccount)
+
+router.post('/users/email/delete', deleteAccountByEmail)
 
 export default router

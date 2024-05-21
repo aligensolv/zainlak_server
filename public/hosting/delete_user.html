@@ -114,12 +114,22 @@
         .submit-btn-container {
             text-align: end;
         }
+
+        .warning-message {
+            color: red;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
         <h1>Delete User Account</h1>
+
+        <div class="warning-message">
+            WARNING: Deleting your account will result in permanent loss of data. Please proceed with caution.
+        </div>
 
         <div class="instruction">
             <h2>Instructions:</h2>
@@ -168,24 +178,32 @@
     <script>
         document.getElementById('delete-account-form').addEventListener('submit', function (event) {
             event.preventDefault();
+
             const email = document.getElementById('email').value;
             const reason = document.getElementById('reason').value;
             const additionalInfo = document.getElementById('additional-info').value;
-            const data = { email, reason, additionalInfo };
-            fetch(`https://server.zainlak.com/api/users/email/${email}`, {
-                method: 'DELETE',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(data)
-            })
-                .then(response => response.json())
-                .then(response => {
-                    alert(response.message);
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                });
+
+            // Display confirmation dialog
+            const confirmation = confirm("Are you sure you want to delete your account? This action is irreversible.");
+
+            if (confirmation) {
+                // Proceed with deletion
+                const data = { email, reason, additionalInfo };
+                fetch(`/api/users/email/delete`, {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify(data)
+                    })
+                    .then(response => response.json())
+                    .then(response => {
+                        alert('Account deleted successfully');
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+            }
         });
     </script>
 </body>

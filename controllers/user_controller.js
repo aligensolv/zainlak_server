@@ -79,3 +79,11 @@ export const deleteAccount = asyncWrapper(
         res.status(OK).json(result)
     }
 )
+
+export const deleteAccountByEmail = asyncWrapper(
+    async (req, res) => {
+        const { email, reason, additionalInfo } = req.body
+        const result = await UserRepository.deleteAccountByEmail({ email, reason, additionalInfo })
+        res.status(OK).json(result)
+    }
+)
