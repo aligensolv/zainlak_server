@@ -1353,3 +1353,10 @@
 {"level":"error","message":"Invalid reset code","timestamp":"2024-05-21 05:33:01"}
 {"level":"error","message":"jwt must be provided","timestamp":"2024-05-21 05:48:24"}
 {"level":"error","message":"jwt must be provided","timestamp":"2024-05-21 05:48:24"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-06-05 20:15:22"}
+{"level":"error","message":"You Already Have This Booking","timestamp":"2024-06-05 20:15:22"}
+{"level":"error","message":"Connection Error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2024-07-02 06:38:54"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-07-02 06:40:02"}
+{"level":"error","message":"Invalid Password","timestamp":"2024-07-02 06:40:02"}
+{"level":"error","message":"User 'test@gmail.com' does not exist","timestamp":"2024-07-02 07:37:00"}
+{"level":"error","message":"User 'test@gmail.com' does not exist","timestamp":"2024-07-02 07:37:00"}

@@ -1465,3 +1465,10 @@ Use mongoose.model(name, schema) {"timestamp":"2024-02-08 00:28:56"}
 [31merror[39m: Invalid reset code {"timestamp":"2024-05-21 05:33:01"}
 [31merror[39m: jwt must be provided {"timestamp":"2024-05-21 05:48:24"}
 [31merror[39m: jwt must be provided {"timestamp":"2024-05-21 05:48:24"}
+[31merror[39m: You Already Have This Booking {"timestamp":"2024-06-05 20:15:22"}
+[31merror[39m: You Already Have This Booking {"timestamp":"2024-06-05 20:15:22"}
+[31merror[39m: Connection Error: connect ECONNREFUSED 127.0.0.1:27017 {"timestamp":"2024-07-02 06:38:54"}
+[31merror[39m: Invalid Password {"timestamp":"2024-07-02 06:40:02"}
+[31merror[39m: Invalid Password {"timestamp":"2024-07-02 06:40:02"}
+[31merror[39m: User 'test@gmail.com' does not exist {"timestamp":"2024-07-02 07:37:00"}
+[31merror[39m: User 'test@gmail.com' does not exist {"timestamp":"2024-07-02 07:37:00"}

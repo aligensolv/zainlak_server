@@ -18,6 +18,7 @@ import TermsApi from './routes/terms.js'
 import ReservationApi from './routes/reservation.js'
 import ManagerApi from './routes/managers.js'
 import SliderApi from './routes/slider.js'
+import logger from './utils/logger.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
