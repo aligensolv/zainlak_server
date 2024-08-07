@@ -6,7 +6,7 @@ import multer from 'multer'
 import path from 'path'
 import Randomstring from 'randomstring'
 
-import { getAllTechnicians, getTechnicianById, deleteTechnician, deleteAllTechnicians, createTechnician, updateTechnician, getAllTechniciansByCategory, getTechniciansCount } from '../controllers/technician_controller.js'
+import { getAllTechnicians, getTechnicianById, deleteTechnician, deleteAllTechnicians, createTechnician, updateTechnician, getAllTechniciansByCategory, getTechniciansCount, registerTechnician, loginTechnician } from '../controllers/technician_controller.js'
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
@@ -27,6 +27,8 @@ router.get('/technicians/categories/:id', getAllTechniciansByCategory)
 router.get('/technicians/:id', getTechnicianById)
 
 router.post('/technicians', upload.single('image'),createTechnician);
+router.post('/technicians/register', upload.single('image'),registerTechnician);
+router.post('/technicians/login', upload.single('image'),loginTechnician);
 
 router.put('/technicians/:id',upload.single('image'), updateTechnician)
 

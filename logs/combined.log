@@ -1360,3 +1360,35 @@
 {"level":"error","message":"Invalid Password","timestamp":"2024-07-02 06:40:02"}
 {"level":"error","message":"User 'test@gmail.com' does not exist","timestamp":"2024-07-02 07:37:00"}
 {"level":"error","message":"User 'test@gmail.com' does not exist","timestamp":"2024-07-02 07:37:00"}
+{"level":"error","message":"Connection Error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2024-07-28 19:51:23"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:52:06"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:52:06"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:52:06"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:52:06"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:53:00"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:53:00"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:53:00"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:53:00"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:54:26"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:54:26"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:54:26"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:54:26"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:13"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:13"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:13"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:13"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:44"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:55:44"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:57:49"}
+{"level":"error","message":"Technician 'test@gmail.com' does not exist","timestamp":"2024-08-07 04:57:49"}
+{"level":"error","message":"Image is required","timestamp":"2024-08-07 05:10:04"}
+{"level":"error","message":"Image is required","timestamp":"2024-08-07 05:10:10"}
+{"level":"error","message":"Image is required","timestamp":"2024-08-07 05:10:17"}
+{"level":"error","message":"Image is required","timestamp":"2024-08-07 05:10:32"}
+{"level":"error","message":"Image is required","timestamp":"2024-08-07 05:11:45"}
+{"level":"error","message":"Technician validation failed: location: Path `location` is required.","timestamp":"2024-08-07 05:13:44"}
+{"level":"error","message":"Technician validation failed: location: Path `location` is required.","timestamp":"2024-08-07 05:13:44"}
+{"level":"error","message":"tech is not defined","timestamp":"2024-08-07 05:14:58"}
+{"level":"error","message":"tech is not defined","timestamp":"2024-08-07 05:14:58"}
+{"level":"error","message":"tech is not defined","timestamp":"2024-08-07 05:15:13"}
+{"level":"error","message":"tech is not defined","timestamp":"2024-08-07 05:15:13"}

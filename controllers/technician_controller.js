@@ -3,6 +3,7 @@ import asyncWrapper from '../middlewares/async_wrapper.js'
 import TechnicianRepository from '../repositories/Technician.js';
 import CustomError from '../interfaces/custom_error_class.js'
 import { static_absolute_files_host } from '../config.js';
+import ValidatorRepository from '../repositories/Validator.js';
 
 export const getAllTechnicians = asyncWrapper(
   async (req, res) => {
@@ -61,6 +62,24 @@ export const createTechnician = asyncWrapper(
   }
 )
 
+export const registerTechnician = asyncWrapper(
+  async (req,res,next) => {
+    const {name,email,phone,location,password} = req.body
+
+    if(!req.file){
+      const image_is_required_error = new CustomError('Image is required', BAD_REQUEST)
+      return next(image_is_required_error)
+    }
+
+    const profile_image = static_absolute_files_host + req.file.path
+
+    const technician = await TechnicianRepository.registerTechnician({
+      name,email,phone,location,password,profile_image
+    })
+    res.status(OK).json(technician)
+  }
+)
+
 export const updateTechnician = asyncWrapper(
   async (req,res) => {
     const {id} = req.params
@@ -76,5 +95,14 @@ export const getTechniciansCount = asyncWrapper(
   async (req,res) => {
     const count = await TechnicianRepository.getTechniciansCount()
     res.status(OK).json(count)
+  }
+)
+
+export const loginTechnician = asyncWrapper(
+  async (req,res) => {
+    const {email, password} = req.body
+    await ValidatorRepository.validateNotNull({email, password})
+    const result = await TechnicianRepository.loginTechnician({email, password})
+    res.status(OK).json(result)
   }
 )

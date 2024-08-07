@@ -885,3 +885,35 @@ Use mongoose.model(name, schema) {"timestamp":"2024-02-08 00:28:56"}
 [31merror[39m: Invalid Password {"timestamp":"2024-07-02 06:40:02"}
 [31merror[39m: User 'test@gmail.com' does not exist {"timestamp":"2024-07-02 07:37:00"}
 [31merror[39m: User 'test@gmail.com' does not exist {"timestamp":"2024-07-02 07:37:00"}
+[31merror[39m: Connection Error: connect ECONNREFUSED 127.0.0.1:27017 {"timestamp":"2024-07-28 19:51:23"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:52:06"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:52:06"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:52:06"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:52:06"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:53:00"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:53:00"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:53:00"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:53:00"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:54:26"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:54:26"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:54:26"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:54:26"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:13"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:13"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:13"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:13"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:44"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:55:44"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:57:49"}
+[31merror[39m: Technician 'test@gmail.com' does not exist {"timestamp":"2024-08-07 04:57:49"}
+[31merror[39m: Image is required {"timestamp":"2024-08-07 05:10:04"}
+[31merror[39m: Image is required {"timestamp":"2024-08-07 05:10:10"}
+[31merror[39m: Image is required {"timestamp":"2024-08-07 05:10:17"}
+[31merror[39m: Image is required {"timestamp":"2024-08-07 05:10:32"}
+[31merror[39m: Image is required {"timestamp":"2024-08-07 05:11:45"}
+[31merror[39m: Technician validation failed: location: Path `location` is required. {"timestamp":"2024-08-07 05:13:44"}
+[31merror[39m: Technician validation failed: location: Path `location` is required. {"timestamp":"2024-08-07 05:13:44"}
+[31merror[39m: tech is not defined {"timestamp":"2024-08-07 05:14:58"}
+[31merror[39m: tech is not defined {"timestamp":"2024-08-07 05:14:58"}
+[31merror[39m: tech is not defined {"timestamp":"2024-08-07 05:15:13"}
+[31merror[39m: tech is not defined {"timestamp":"2024-08-07 05:15:13"}

@@ -64,11 +64,9 @@ const technicianSchema = new mongoose.Schema({
   },
   shift_start_time: {
     type: String,
-    required: true
   },
   shift_end_time: {
-    type: String,
-    required: true
+    type: String
   },
   price:{
     type:Number,

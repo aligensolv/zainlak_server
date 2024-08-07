@@ -26,7 +26,7 @@ class Auth{
         ))
     }
 
-    static generateToken(data, expiresIn = '3h'){
+    static generateToken(data, expiresIn = '3d'){
         return new Promise(promiseAsyncWrapper(
             async (resolve) =>{
                 let token = jwt.sign(
@@ -44,38 +44,6 @@ class Auth{
             async (resolve) =>{
                 let decoded = jwt.verify(token,jwt_secret_key)
                 return resolve(decoded)
-            }
-        ))
-    }
-
-    static login(credentials){
-        return new Promise(promiseAsyncWrapper(
-            async (resolve, reject) =>{
-                let user = await UserRepository.getUserByIdentifier(credentials.identifier)
-                if(!user){
-                    let not_found_error = new CustomError(`User '${credentials.identifier}' does not exist`, NOT_FOUND)
-                    return reject(not_found_error)
-                }
-    
-                let isMatch = await this.decryptAndCheckPasswordMatch(credentials.password,user.password)
-    
-                if(!isMatch){
-                    let password_not_match_error = new CustomError('Password mismatch', BAD_REQUEST)
-                    
-                    return reject(password_not_match_error)
-                }
-    
-    
-                let token = jwt.sign(
-                    {username: user.name,id: user._id,role: 'user'},
-                    jwt_secret_key,
-                )
-    
-    
-                return resolve({
-                    token: token,
-                    user: user
-                })
             }
         ))
     }
